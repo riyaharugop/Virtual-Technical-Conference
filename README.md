@@ -59,7 +59,7 @@ Virtual-Technical-Conference/
 │
 ├── use-case.png
 │
-├── Use-Case-Flow,pdf
+├── Use-Case-Flow.pdf
 │
 └── README.md
 
